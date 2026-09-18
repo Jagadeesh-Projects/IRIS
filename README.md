@@ -1,4 +1,4 @@
-Absolutely babe ❤️ Here is the **complete GitHub-ready `README.md` for your actual IRIS project**, using the uploaded README as the structural/style reference while keeping IRIS-specific content accurate.
+
 
 ````markdown
 # IRIS: Context-Aware Agentic Personal Intelligence System (CAPIS)
@@ -8,18 +8,6 @@ Absolutely babe ❤️ Here is the **complete GitHub-ready `README.md` for your 
 ### 🧠 A Local-First, Context-Aware Agentic AI Assistant for Intelligent Personal Computing
 
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python">
-  <img src="https://img.shields.io/badge/AI-Local%20LLM-green.svg" alt="AI">
-  <img src="https://img.shields.io/badge/LLM-Ollama-orange.svg" alt="Ollama">
-  <img src="https://img.shields.io/badge/Model-Qwen3--4B-purple.svg" alt="Qwen">
-  <img src="https://img.shields.io/badge/Architecture-Multi--Agent-red.svg" alt="Multi Agent">
-  <img src="https://img.shields.io/badge/Memory-Persistent-yellow.svg" alt="Memory">
-  <img src="https://img.shields.io/badge/Platform-Desktop-lightgrey.svg" alt="Desktop">
-</p>
-
----
 
 ## 📌 Overview
 
